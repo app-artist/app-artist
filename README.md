@@ -1,5 +1,5 @@
 ![logo](https://github.com/app-artist/app-artist/blob/main/banner.png)
-<h1 align="center">Hi 👋, I'm Desh Nidhi</h1>
+<h1 align="center">Hi 👋, I'm App Artist</h1>
 <h3 align="center">Flutter Developer,Designer and Lifelong learner</h3>
 
 <h3 align="left">Connect with me:</h3>
